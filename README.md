@@ -33,5 +33,5 @@ SLEEP_TIME - the number(in seconds) which sets how much time to pass between two
 clock updates
 
 
-andrei.istodorescu@gmail.com
+http://engineeringdiy.freeforums.org/
 www.engineering-diy.blogspot.com
