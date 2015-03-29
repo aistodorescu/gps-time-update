@@ -28,9 +28,11 @@ gpsd /dev/ttyAMA0
 
 ## Customization
 Edit the file update_date.sh and change the following options:
-CURRENT_CENTURY - the curent century number
-SLEEP_TIME - the number(in seconds) which sets how much time to pass between two 
-clock updates
+- CURRENT_CENTURY - the curent century number
+- SLEEP_TIME - the number(in seconds) which sets how much time to pass between two clock updates
+
+
+
 
 
 http://engineeringdiy.freeforums.org/<br>
